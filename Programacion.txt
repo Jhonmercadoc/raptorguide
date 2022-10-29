@@ -1,0 +1,12 @@
+Dos tipos de lenguaje compilados e interpretados
+JavaScript
+IDE que es?
+Que es ¿W3c?
+El navegador se divide en motores
+Video Element
+Protocolos
+Que es php
+Xml, json, ws, http
+Index
+Cuando aplica initial scale
+Combinar las celdas vertical horizontal, agregar imagenes, enlaces.
